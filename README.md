@@ -1,3 +1,9 @@
+[![mi-web](https://github.com/rociopenciaroli/elementos/blob/master/svg-2.svg)](http://holarocio.com)
+[![diseño-web](https://github.com/rociopenciaroli/elementos/blob/master/web-design.svg)](http://holarocio.com)
+[![diseño-grafico](https://github.com/rociopenciaroli/elementos/blob/master/graphic-design.svg)](http://holarocio.com)
+[![ux](https://github.com/rociopenciaroli/elementos/blob/master/ux.svg)](http://holarocio.com)
+[![ui](https://github.com/rociopenciaroli/elementos/blob/master/ui.svg)](http://holarocio.com)
+
 ## AGREGAR BOTÓN DE SEGUIMIENTO DE SPOTIFY, EN SITIO WEB WORDPRESS 
 
 El botón __SEGUIR__ en una página web permite que un visitante haga clic en él y pueda seguir al artista en Spotify.
